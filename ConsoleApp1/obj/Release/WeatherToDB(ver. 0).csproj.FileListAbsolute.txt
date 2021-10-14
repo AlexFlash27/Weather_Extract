@@ -1,0 +1,19 @@
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\bin\Release\Google.Protobuf.dll
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\bin\Release\Zstandard.Net.dll
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\bin\Release\Renci.SshNet.dll
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\bin\Release\System.Buffers.dll
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\bin\Release\System.Memory.dll
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\obj\Release\WeatherToDB(ver. 0).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\obj\Release\WeatherToDB(ver. 0).csproj.CopyComplete
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\obj\Release\ConsoleApp1.pdb
+C:\Users\user\Desktop\Projects\ConsoleApp21\ConsoleApp1\bin\Release\System.Numerics.Vectors.dll
